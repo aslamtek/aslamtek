@@ -20,7 +20,7 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/azlamayoob/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/azlamayoob/)
 
 ---
 
