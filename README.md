@@ -20,4 +20,9 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 
 ### 🌐 Socials:
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none;">
+    <button style="margin: 10px; padding: 12px 25px; font-size: 16px; background-color: #0e76a8; color: white; border: none; border-radius: 10px; box-shadow: 2px 2px 8px #aaa; cursor: pointer;">
+      LinkedIn
+    </button>
+  </a>
