@@ -46,3 +46,9 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aslamtek&theme=radical)](https://git.io/streak-stats)
 
 ---
+---
+
+<p align="center">
+  <em>"Success is not final, failure is not fatal: It is the courage to continue that counts.<br>
+  " — Winston Churchill."</em>
+</p>
