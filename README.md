@@ -51,8 +51,8 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 ---
 
 <p align="center">
-  <div style="border: 2px solid #f39c12; padding: 20px; background-color: #fef9e4; border-radius: 10px; font-size: 18px; width: 80%; max-width: 600px;">
-    <em>"Success is not final, failure is not fatal: It is the courage to continue that counts."<br>
-    — Winston Churchill</em>
-  </div>
+  <blockquote style="border: 2px solid #ccc; padding: 20px; background-color: #f4f4f4; border-radius: 10px; font-size: 18px; color: #333;">
+    <em>"In the world of code, every line is a step towards mastering the impossible, and every challenge is an opportunity to innovate."</em><br>
+    <em>— Aslam</em>
+  </blockquote>
 </p>
