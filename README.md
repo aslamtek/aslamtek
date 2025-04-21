@@ -51,8 +51,8 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 ---
 
 <p align="center">
-  <blockquote style="border: 2px solid #ccc; padding: 20px; background-color: #f4f4f4; border-radius: 10px; font-size: 18px; color: #333;">
-    <em>"In the world of code, every line is a step towards mastering the impossible, and every challenge is an opportunity to innovate."</em><br>
-    <em>— Aslam</em>
-  </blockquote>
+  <div style="border: 2px solid #9b59b6; padding: 20px; background-color: #f4ecf7; border-radius: 10px; font-size: 18px; width: 80%; max-width: 600px;">
+    <em>"The journey is not about perfection, it’s about progress."</em><br>
+    — Aslam
+  </div>
 </p>
