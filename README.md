@@ -14,3 +14,10 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 
 🌱 I'm always eager to learn and excited to collaborate on projects that **leverage data to power smarter decisions**.  
 📂 Explore some of my work below!
+
+
+---
+
+### 🌐 Socials:
+
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/azlamayoob/))
