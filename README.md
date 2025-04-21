@@ -48,7 +48,11 @@ Hi, I'm **Aslam**! I'm a specialist in **Python**, **Machine Learning**, and **A
 ---
 ---
 
+---
+
 <p align="center">
-  <em>"Success is not final, failure is not fatal: It is the courage to continue that counts.<br>
-  " — Winston Churchill."</em>
+  <div style="border: 2px solid #f39c12; padding: 20px; background-color: #fef9e4; border-radius: 10px; font-size: 18px; width: 80%; max-width: 600px;">
+    <em>"Success is not final, failure is not fatal: It is the courage to continue that counts."<br>
+    — Winston Churchill</em>
+  </div>
 </p>
